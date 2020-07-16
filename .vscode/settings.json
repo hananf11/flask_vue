@@ -1,0 +1,16 @@
+{
+    "files.exclude": {
+        "node_modules": true,
+        "yarn.lock": true,
+        ".vscode": true,
+        "Pipfile.lock": true,
+        "**/__pycache__": true,
+        "static": true
+    },
+    "python.pythonPath": "/home/hekf/.local/share/virtualenvs/flask_vue-LFHUX9k9/bin/python",
+    "cSpell.words": [
+        "postsetup",
+        "presetup"
+    ],
+    "workspace.isHidden": true,
+}
